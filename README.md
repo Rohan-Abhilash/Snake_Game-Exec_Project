@@ -16,6 +16,6 @@ Use the arrow keys to navigate the snake towards the food. Each piece of food co
 To play the game locally, simply clone this repository and open `index.html` in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/Rohan-Abhilash/Snake_Game-Exec_Project.git
 cd snake-game
 open index.html
